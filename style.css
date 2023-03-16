@@ -295,3 +295,8 @@ h2 {
 .timer {
   font-weight: 600;
 }
+
+.user_pass {
+  font-size: 1.5rem;
+  font-weight: 400;
+}
